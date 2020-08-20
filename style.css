@@ -7,7 +7,23 @@ html, body {
     font-family: 'Roboto', sans-serif;
 }
 
-#time {
-    font-size: 120px;
-    text-align: center;
+#timeRow {
+    margin: auto;
+    display: inline;
 }
+
+#time {
+    margin-top: 35vh;
+    font-size: 18vw;
+    text-align: center;
+
+    
+}
+
+#ap {
+    font-size: 1vw;
+    position: relative;
+    margin-left: 85vw;
+    margin-top: -30vh;
+}
+
