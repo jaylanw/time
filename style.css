@@ -17,6 +17,7 @@ html, body {
     position: absolute;
     margin-top: 0;
     margin-left: 15vw;  
+    color: rgb(206, 206, 206);
 }
 
 #ap {
@@ -55,3 +56,9 @@ html, body {
     opacity: 70%;
 }
 
+
+.my-element {
+    display: inline-block;
+    margin: 0 0.5rem;
+    animation-duration: 3s; 
+  }
