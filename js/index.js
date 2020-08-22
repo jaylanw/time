@@ -43,7 +43,7 @@ $(document).ready(function() {
                    ' ' + result[0].chapter +
                    ':' + result[0].verse );
             $("#verseText").html (
-                   result[0].text);
+                   result[0].text.slice(0, -4));
           $("#spinner").hide();
         }
       });

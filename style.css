@@ -23,7 +23,7 @@ html, body {
     font-size: 1vw;
     position: relative;
     margin-left: 83vw;
-    margin-top: 35vh;
+    margin-top: 25vh;
 }
 
 #dateTag {
@@ -39,7 +39,7 @@ html, body {
 }
 
 #verseText {
-    font-size: 10px;
+    font-size: 12px;
     margin-left: 16vw;    
 }
 
